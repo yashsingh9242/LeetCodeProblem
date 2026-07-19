@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sorting
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0392-is-subsequence) |
+## Math
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
