@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0412-fizz-buzz) |
 ## Sorting
 |  |
 | ------- |
@@ -69,8 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0412-fizz-buzz) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0409-longest-palindrome) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
