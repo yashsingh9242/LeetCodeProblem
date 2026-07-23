@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0415-add-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0415-add-strings) |
 ## Greedy
 |  |
 | ------- |
@@ -79,4 +81,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
