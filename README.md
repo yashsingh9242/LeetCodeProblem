@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0039-combination-sum](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0041-first-missing-positive) |
 ## Binary Search
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0039-combination-sum) |
 | [0257-binary-tree-paths](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
