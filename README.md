@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0367-valid-perfect-square](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0012-integer-to-roman) |
 | [0231-power-of-two](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0231-power-of-two) |
+| [0367-valid-perfect-square](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0415-add-strings) |
