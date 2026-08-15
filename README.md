@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0012-integer-to-roman) |
 | [0231-power-of-two](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0412-fizz-buzz) |
@@ -116,4 +117,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0022-generate-parentheses) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
