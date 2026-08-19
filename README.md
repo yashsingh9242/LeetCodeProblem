@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0010-regular-expression-matching) |
+| [0024-swap-nodes-in-pairs](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0231-power-of-two) |
 ## Bracket Sequences
 |  |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0292-nim-game) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
