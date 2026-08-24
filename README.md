@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0041-first-missing-positive) |
 | [0455-assign-cookies](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0561-array-partition) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0561-array-partition) |
 ## Backtracking
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0561-array-partition) |
 ## Simulation
 |  |
 | ------- |
@@ -168,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0506-relative-ranks) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
