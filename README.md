@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0594-longest-harmonious-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0409-longest-palindrome) |
+| [0594-longest-harmonious-subsequence](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0594-longest-harmonious-subsequence) |
 ## String
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0594-longest-harmonious-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -175,4 +178,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0594-longest-harmonious-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
