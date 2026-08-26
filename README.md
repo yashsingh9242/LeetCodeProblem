@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0041-first-missing-positive) |
+| [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0455-assign-cookies](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0561-array-partition) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0041-first-missing-positive) |
+| [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0389-find-the-difference) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0043-multiply-strings) |
+| [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0290-word-pattern) |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0040-combination-sum-ii) |
+| [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0022-generate-parentheses) |
+| [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0392-is-subsequence](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0509-fibonacci-number) |
 ## Math
@@ -165,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0509-fibonacci-number) |
 ## Quicksort
 |  |
@@ -183,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0594-longest-harmonious-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
