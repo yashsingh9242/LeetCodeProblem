@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0594-longest-harmonious-subsequence) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0674-longest-continuous-increasing-subsequence) |
 ## Binary Search
 |  |
 | ------- |
