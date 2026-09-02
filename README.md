@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0043-multiply-strings) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0242-valid-anagram) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0045-jump-game-ii) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0032-longest-valid-parentheses) |
 ## Brainteaser
 |  |
 | ------- |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
