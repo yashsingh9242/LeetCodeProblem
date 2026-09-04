@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0509-fibonacci-number) |
 ## Bracket Sequences
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0025-reverse-nodes-in-k-group) |
 ## Memoization
 |  |
 | ------- |
