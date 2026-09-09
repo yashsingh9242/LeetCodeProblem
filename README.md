@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0036-valid-sudoku](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0041-first-missing-positive) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0041-first-missing-positive) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0242-valid-anagram) |
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0374-guess-number-higher-or-lower) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
