@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0051-n-queens) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0455-assign-cookies](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0495-teemo-attacking) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0051-n-queens) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0257-binary-tree-paths) |
 ## Tree
@@ -247,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0501-find-mode-in-binary-search-tree) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
