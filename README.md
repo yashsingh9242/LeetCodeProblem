@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0012-integer-to-roman) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0041-first-missing-positive) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0043-multiply-strings) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0594-longest-harmonious-subsequence](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0594-longest-harmonious-subsequence) |
 ## Trie
 |  |
