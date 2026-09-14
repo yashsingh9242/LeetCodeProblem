@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0051-n-queens) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0455-assign-cookies](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0455-assign-cookies) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0049-group-anagrams) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0290-word-pattern) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0049-group-anagrams) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0257-binary-tree-paths) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0455-assign-cookies) |
