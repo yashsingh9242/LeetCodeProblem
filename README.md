@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0054-spiral-matrix) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0455-assign-cookies](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0495-teemo-attacking) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0495-teemo-attacking) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0054-spiral-matrix) |
 ## Binary Search Tree
 |  |
 | ------- |
