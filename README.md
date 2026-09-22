@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0056-merge-intervals) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0455-assign-cookies](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0495-teemo-attacking) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0455-assign-cookies) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0455-assign-cookies) |
 ## Heap (Priority Queue)
 |  |
