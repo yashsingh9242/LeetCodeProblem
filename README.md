@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0076-minimum-window-substring) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
