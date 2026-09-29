@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0076-minimum-window-substring) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0242-valid-anagram) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0072-edit-distance) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0392-is-subsequence](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0509-fibonacci-number) |
