@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0455-assign-cookies](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0455-assign-cookies) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0495-teemo-attacking) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0059-spiral-matrix-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
