@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0063-unique-paths-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0455-assign-cookies](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0455-assign-cookies) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0072-edit-distance) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0392-is-subsequence](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0392-is-subsequence) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0063-unique-paths-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
