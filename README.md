@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0455-assign-cookies](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0455-assign-cookies) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0076-minimum-window-substring) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0242-valid-anagram) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search Tree
 |  |
 | ------- |
