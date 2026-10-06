@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0085-maximal-rectangle) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0455-assign-cookies](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0495-teemo-attacking) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0085-maximal-rectangle) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0392-is-subsequence](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0509-fibonacci-number) |
@@ -273,11 +275,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0085-maximal-rectangle) |
 ## Merge Sort
 |  |
 | ------- |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0085-maximal-rectangle) |
 ## Binary Search Tree
 |  |
 | ------- |
