@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0085-maximal-rectangle) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0074-search-a-2d-matrix) |
 | [0367-valid-perfect-square](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0374-guess-number-higher-or-lower) |
 ## Divide and Conquer
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0085-maximal-rectangle) |
 ## Binary Search Tree
 |  |
