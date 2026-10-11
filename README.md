@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0594-longest-harmonious-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0877-stone-game](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0877-stone-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0392-is-subsequence](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0877-stone-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
@@ -225,10 +228,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0877-stone-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -328,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0062-unique-paths) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
