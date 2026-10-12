@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0061-rotate-list) |
 | [0392-is-subsequence](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0455-assign-cookies) |
+| [2396-strictly-palindromic-number](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/2396-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0877-stone-game) |
+| [2396-strictly-palindromic-number](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/2396-strictly-palindromic-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0292-nim-game) |
+| [2396-strictly-palindromic-number](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/2396-strictly-palindromic-number) |
 ## Minimax
 |  |
 | ------- |
