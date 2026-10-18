@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0052-n-queens-ii) |
+| [0089-gray-code](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0089-gray-code) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0257-binary-tree-paths) |
 ## Tree
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0367-valid-perfect-square) |
