@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0085-maximal-rectangle) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0089-gray-code) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0257-binary-tree-paths) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0389-find-the-difference) |
