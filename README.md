@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0085-maximal-rectangle) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0087-scramble-string) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0242-valid-anagram) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0089-gray-code) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0257-binary-tree-paths) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Tree
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0085-maximal-rectangle) |
 ## Binary Search Tree
 |  |
