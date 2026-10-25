@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0115-distinct-subsequences) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0257-binary-tree-paths) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0392-is-subsequence](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0392-is-subsequence) |
