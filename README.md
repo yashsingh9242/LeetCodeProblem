@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0076-minimum-window-substring) |
+| [0126-word-ladder-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0149-max-points-on-a-line) |
 | [0242-valid-anagram](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0242-valid-anagram) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0115-distinct-subsequences) |
+| [0126-word-ladder-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0257-binary-tree-paths) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0089-gray-code) |
+| [0126-word-ladder-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0257-binary-tree-paths) |
 ## Tree
@@ -394,4 +397,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0149-max-points-on-a-line) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0126-word-ladder-ii) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
