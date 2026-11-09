@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0149-max-points-on-a-line) |
 | [0242-valid-anagram](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0242-valid-anagram) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0242-valid-anagram) |
@@ -408,8 +410,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0127-word-ladder) |
 ## Bidirectional Search
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
