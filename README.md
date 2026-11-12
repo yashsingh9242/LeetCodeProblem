@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0392-is-subsequence](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0509-fibonacci-number) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0877-stone-game](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0877-stone-game) |
 ## Math
 |  |
