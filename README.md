@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0354-russian-doll-envelopes) |
 | [0455-assign-cookies](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0495-teemo-attacking) |
+| [0502-ipo](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0594-longest-harmonious-subsequence) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0354-russian-doll-envelopes) |
 | [0389-find-the-difference](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0594-longest-harmonious-subsequence) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0561-array-partition) |
 ## Simulation
 |  |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0023-merge-k-sorted-lists) |
+| [0502-ipo](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/yashsingh9242/LeetCodeProblem/tree/master/0506-relative-ranks) |
 ## Counting Sort
 |  |
